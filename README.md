@@ -3,6 +3,7 @@
 </p>
 
 
+
 # TMDb - The Movie Database 
 
 Là một nguồn thông tin điện ảnh phong phú và đa chiều, được trích xuất từ API chính thức của TMDb – một trong những nền tảng cơ sở dữ liệu phim lớn nhất thế giới. Dữ liệu bao gồm hàng chục ngàn bộ phim với các thuộc tính chi tiết như: tiêu đề, ngày phát hành, doanh thu, ngôn ngữ, điểm đánh giá, thể loại, từ khóa, thông tin diễn viên – đạo diễn, công ty sản xuất, quốc gia phát hành,...
